@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sandesh Singh 👩‍💼 </h1>
+<h1 align="center">Hey there! I'm Sandesh Singh 👨🏻‍💻 </h1>
 <h3 align="center">🚀 Third Year Undergrad | Front-End Developer | Accessibility-Tester | Competitive Programmer 🚀</h3>
 <div> 
 <img width = "35%" align="right" alt="gif" height="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
