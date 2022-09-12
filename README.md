@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sandesh Singh 👨🏻‍💻 </h1>
 <h3 align="center">🚀 Third Year Undergrad | Front-End Developer | Accessibility-Tester | Competitive Programmer 🚀</h3>
 <div> 
-<img width = "35%" align="right" alt="gif" height="300px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img width = "25%" align="right" alt="gif" height="200px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
