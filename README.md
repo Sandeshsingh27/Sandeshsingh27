@@ -7,7 +7,7 @@
 
   
   - 🎓 &nbsp; Studying Computer Science Engineering with specialisation in Big Data Analytics at Chandigarh University, Punjab.
-  - 💼 &nbsp; I’m currently working on Web Development projects.
+  - 💼 &nbsp; I’m currently working on Web Development and Data Analytics projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Development.
   - ✍️ &nbsp; Playing chess and gardening is my side hobby. Drop in for a chat anytime on gardening tips...
   - 💪 &nbsp; Exploring new technologies / side projects / Working on enhancing my skills 😃
