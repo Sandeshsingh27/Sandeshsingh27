@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Sandesh Singh 👨🏻‍💻 </h1>
-<h3 align="center">🚀 Third Year Undergrad | Web Developer | Accessibility-Developer | Competitive Programmer 🚀</h3>
+<h3 align="center">🚀 Final Year Undergrad | Web Developer | Accessibility-Developer 🚀</h3>
 <div> 
 <img width = "25%" align="right" alt="gif" height="200px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 <div align="left"> 
@@ -9,7 +9,7 @@
   - 🎓 &nbsp; Studying Computer Science Engineering with specialisation in Big Data Analytics at Chandigarh University, Punjab.
   - 💼 &nbsp; I’m currently working on Web Development and Data Analytics projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Development.
-  - ✍️ &nbsp; Playing chess and gardening is my side hobby. Drop in for a chat anytime on gardening tips...
+  - ✍️ &nbsp; Playing chess and gardening is my side hobby.
   - 💪 &nbsp; Exploring new technologies / side projects / Working on enhancing my skills 😃
 </div> 
 </div>
@@ -34,7 +34,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive)
+<!--   ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive) -->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
